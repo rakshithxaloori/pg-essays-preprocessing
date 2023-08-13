@@ -1,0 +1,11 @@
+What I've Learned from Users
+September 2022
+I recently told applicants to Y Combinator that the best advice I could give for getting in, per word, was
+    Explain what you've learned from users. 
+That tests a lot of things: whether you're paying attention to users, how well you understand them, and even how much they need what you're making.
+Afterward I asked myself the same question. What have I learned from YC's users, the startups we've funded?
+The first thing that came to mind was that most startups have the same problems. No two have exactly the same problems, but it's surprising how much the problems remain the same, regardless of what they're making. Once you've advised 100 startups all doing different things, you rarely encounter problems you haven't seen before.
+This fact is one of the things that makes YC work. But I didn't know it when we started YC. I only had a few data points: our own startup, and those started by friends. It was a surprise to me how often the same problems recur in different forms. Many later stage investors might never realize this, because later stage investors might not advise 100 startups in their whole career, but a YC partner will get this much experience in the first year or two.
+That's one advantage of funding large numbers of early stage companies rather than smaller numbers of later-stage ones. You get a lot of data. Not just because you're looking at more companies, but also because more goes wrong.
+But knowing (nearly) all the problems startups can encounter doesn't mean that advising them can be automated, or reduced to a formula. There's no substitute for individual office hours with a YC partner. Each startup is unique, which means they have to be advised by specific partners who know them well. [1]
+We learned that the hard way, in the notorious "batch that broke YC" in the summer of 2012. Up till that point we treated the partners as a pool. When a startup requested office hours, they got the next available slot posted by any partner. That meant every partner had to know every startup. This worked fine up to 60 startups, but when the batch grew to 80, everything broke. The founders probably didn't realize anything was wrong, but the partners were confused and unhappy because halfway through the batch they still didn't know all the companies yet. [2]
